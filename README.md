@@ -1,5 +1,50 @@
-# 💫 About Me:
-# Hi, I'm Atharv Agarwal 👋<br><br>🚀 Aspiring builder at the intersection of AI, Finance, and Automation  <br>🧠 Focused on using AI tools to rapidly prototype real-world solutions  <br>⚡ Currently building projects using a "vibe coding" approach (idea → AI → deploy)<br><br>---<br><br>## 💡 What I Do<br>- Build AI-powered tools and automation systems  <br>- Work with APIs, data, and machine learning models  <br>- Turn raw ideas into working prototypes quickly  <br>- Explore real-world problems in fintech and productivity  <br><br>---<br><br>## 🛠️ Tech Stack<br>- **Languages:** Python  <br>- **Data & ML:** Pandas, NumPy, Scikit-learn  <br>- **Visualization:** Matplotlib, Seaborn, Plotly  <br>- **Backend:** Flask  <br>- **Tools:** GitHub, APIs, Vercel  <br>- **Other:** Prompt Engineering, AI Tools  <br><br>---<br><br>## 🚧 Current Projects<br><br>### 🔹 Forge (In Progress)<br>AI-powered system that converts ideas into deployable applications  <br>- Automating code generation workflows  <br>- Exploring instant deployment systems  <br>- Goal: reduce idea → product time drastically  <br><br>---<br><br>### 🔹 Glint (In Progress)<br>Spotify playlist → YouTube recreation tool  <br>- Extracts playlists and rebuilds using YouTube API  <br>- Focused on automation and API integration  <br><br>---<br><br>### 🔹 Stock Market ML Project (WIP)<br>- Predicting stock trends using machine learning  <br>- Working with real-world financial datasets  <br><br>---<br><br>## 📊 Goals for 2026<br>- Build and deploy 3+ real-world AI tools  <br>- Gain hands-on internship experience  <br>- Improve system design + real product thinking  <br><br>---<br><br>## 📫 Connect With Me<br>- Email: reach@atharvagarwal.in<br>---<br><br>⚠️ *I focus on building fast, learning fast, and improving through execution.*
+# 💫 About Me
+Hi, I'm Atharv Agarwal 👋  
+
+🚀 AI • Finance • Automation  
+⚡ Building fast with AI ("vibe coding")  
+
+---
+
+## 💡 What I Do
+- AI tools & automation systems  
+- APIs, data, ML models  
+- Idea → working prototypes  
+- Fintech & productivity  
+
+---
+
+## 🛠️ Tech Stack
+- **Python**  
+- **Pandas, NumPy, Scikit-learn**  
+- **Matplotlib, Seaborn, Plotly**  
+- **Flask, APIs, Vercel, GitHub**  
+- **Prompt Engineering, AI Tools, Canva**  
+
+---
+
+## 🚧 Projects
+
+### 🔹 Forge (WIP)
+AI system converting ideas → deployable apps  
+
+### 🔹 Glint (WIP)
+Spotify → YouTube playlist automation  
+
+### 🔹 Stock ML Project
+Stock trend prediction using ML  
+
+---
+
+## 📊 Goals (2026)
+- Build 3+ AI tools  
+- Get internship  
+- Improve product thinking  
+
+---
+
+## 📫 Contact
+Email: reach@atharvagarwal.in
 
 
 ## 🌐 Socials:
